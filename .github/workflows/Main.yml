@@ -12,9 +12,9 @@ jobs:
     - name: Mendownload Ngrok.
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
-        Invoke-WebRequest https://raw.githubusercontent.com/Alphanum404/RDPGratis2021/start.bat -OutFile start.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/Alphanum404/RDPGratis2021/wallpaper.png -OutFile wallpaper.bmp
-        Invoke-WebRequest https://raw.githubusercontent.com/Alphanum404/RDPGratis2021/wallpaper.bat -OutFile wallpaper.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/Alphanum404/RDPGratis2021/main/start.bat -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/Alphanum404/RDPGratis2021/main/wallpaper.png -OutFile wallpaper.bmp
+        Invoke-WebRequest https://raw.githubusercontent.com/Alphanum404/RDPGratis2021/main/wallpaper.bat -OutFile wallpaper.bat
     - name: Mendownload Launcher.
       run: |
         Invoke-WebRequest https://raw.githubusercontent.com/Alphanum404/RDPGratis2021/main/launcher/Node.js.lnk -OutFile Node.js.lnk
