@@ -39,3 +39,11 @@ Remote Desktop Protocol adalah sebuah protokol jaringan yang digunakan oleh Micr
 
 Untuk Cara Yang Lebih Lengkap Bisa Melihat [Video Ini](https://youtube.com).
 
+## Thanks To
+
++ Allah SWT.
++ My Friend All
+
+And Thanks To
++ [EmanSaputra](https://github.com/EmanSaputra).
+For Update The Script.
