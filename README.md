@@ -17,7 +17,7 @@ Remote Desktop Protocol adalah sebuah protokol jaringan yang digunakan oleh Micr
 - [x] Drag and drop all file (drop semua file apapun dari Laptop/PC/Komputer)
 - [x] Import and save files from GitHub, Dropbox, Google Drive and One Drive
 - [x] Reuploader
-- [x] US Server
+- [x] SG Server
 - [ ] Hacking? (No Recommended!)
 - [ ] Torrent? (No Recommended!)
 - [ ] Porn? (No Recommended!) (Puasa Bor!!!)
